@@ -1,1 +1,5 @@
-//your JS code here. If required.
+function count(url){
+	for(let i=0;i<url.length;i++){
+		alert(url.length);
+	}
+}
